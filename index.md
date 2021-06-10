@@ -6,45 +6,48 @@
 
 ## Kursbeskrivelse 
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-$x\cdot (1+\frac{r}{n})^{T\cdot n}$
+[Finnes her](https://uit.no/utdanning/emner/emne?p_document_id=722325){:target="blank"}
 
 ## Faglærerinfo
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
+- Fagansvarlig [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"}
+- [Øystein Myrland](https://uit.no/ansatte/person?p_document_id=41412){:target="blank"}
 ## Pensum
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+[Core online text](https://www.core-econ.org/the-economy/book/text/0-3-contents.html){:target="blank"}
 
-## Forelesningsplan
-- [Timeplan](timeplan.md)
-- Innhold
-- Ressurser
-  - Pensum
-  - Notater
-  - Video
-  - Øvinger
-  - Kode
-  - Lenke til Jupyter
-  - FAQ
+## Kursplan
+- [Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1004-1){:target="blank"}
+- [Forelesningsplan](forelesningsplan sok 1004.md){:target="blank"}
+- [Seminarplan](seminarplan.md){:target="blank"}
+Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema. 
 
-## Innlevering
-- Timeplan
-- Oppgaver
-- Ressurser
-- Lenke til innlevering (Wiseflow)
-- Lenke til CV side
-- Lenke til GIT
 
-## FAQ
+
+## Kunngjøringer
+Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/courses/24034){:target="blank"}.
+
+
+
+
+
+
+## Innlevering og eksamen
+
+Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.
+Frister, oppgaver og ressurser finnes i [evalueringsplanen](evalueringsplan.md){:target="blank"}
+
+Besvarelser leveres elektronisk i [Wiseflow](https://europe.wiseflow.net/login/license/6)
 
 ## Kursevaluering
+Kurset evalueres av studenter midtveis i semesteret og ved kursets slutt. Nedenfor finner du detaljer om evalueringsmetodene.
 - Midtveis
 - Slutt
 
-## Equations
 
-$x\cdot (1+\frac{r}{n})^{T\cdot n}$
+## FAQ - Ofte stilte spørsmål og svar
+
+Se vår [FAQ side](faq.md){:target="blank"}
+
+
 
 
 
