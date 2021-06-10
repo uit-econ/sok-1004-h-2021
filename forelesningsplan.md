@@ -8,8 +8,8 @@
 |02/09 14.15-16    | R | ØM |  |
 |07/09 10.15-12    | Bruttonasjonalprodukt (BNP)    | DC       | [Core Kap. 1](https://www.core-econ.org/the-economy/book/text/01.html){:target='_blank_'}  |
 |08/09 08.15-10     | Markedsøkonomien  | DC | [Core Kap. 1](https://www.core-econ.org/the-economy/book/text/01.html)   |
-|16/09 14.15-16   | Case 1: Deskriptiv analyse av historiske BNP-data fra SSB (1970-2020) | ØM       | [Notat](https://rpubs.com/omy000/717180)  <br />[R kode](http://ansatte.uit.no/oystein.myrland/okemnprog/bnp_vekst.R)|
-|23/09 14.15-16   | Case 2: Historisk BNP (1865-2011)                                     | ØM         |      |
+|16/09 14.15-16   | Case 1a: Bruttonasjonalprodukt - BNP | ØM       | [lenker til case og kode](https://oysteinm.github.io/uit-sok-1004-h21/)|
+|23/09 14.15-16   | Case 1b: Årlig bruttonasjonalprodukt 1865-2011                      | ØM         |  [lenker til case og kode](https://oysteinm.github.io/uit-sok-1004-h21/)  |
 |29/09 08.15-10    | Grunnleggende begreper i samfunnsøkonomi           | DC |   |
 |06/10 08.15-10    | Økonomisk vekst og befolkningsvekst | DC |   |
 |12/10 10.15-12  | Case 3: Analyse av korrelasjonen mellom økonomisk aktivitet (BNP), CO2-utslipp og global temperatur  | ØM |   |
