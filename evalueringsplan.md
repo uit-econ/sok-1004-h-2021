@@ -8,7 +8,6 @@
 |----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
 |Arbeidskrav   | iKomp                        | 31/08 kl. 16.00       |<a href="https://result.uit.no/ikomp/" target="_blank">Kurs iKomp</a> <br> <a href="https://result.uit.no/ikomp/faq-no/" target="_blank">iKomp FAQ</a>    |
 |Arbeidskrav   | Vitenskapsteori                        | 14/09 kl. 16.00       |    |
-|Arbeidskrav   | Case 1                        | 22/09 kl. 16.00       |    |
 |Mappe   | Core kap 1                        | 15/09 kl. 16.00       |    |
 |Arbeidskrav   | Case 1                        | 22/09 kl. 16.00       |    |
 |Arbeidskrav   | Case 2                        | 28/09 kl. 16.00       |    |
