@@ -16,7 +16,7 @@
 
 ## Kursplan
 - [Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1004-1){:target="blank"}
-- [Forelesningsplan](forelesningsplan sok 1004.md){:target="blank"}
+- [Forelesningsplan](forelesningsplan.md){:target="blank"}
 - [Seminarplan](seminarplan.md){:target="blank"}
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema. 
 
