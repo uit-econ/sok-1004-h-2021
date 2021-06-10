@@ -20,20 +20,16 @@ Kurset tas normalt i første høstsemester, og teller 15 studiepoeng.
 
 ## Kursplan  
 
-- [Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1004-1){:target="blank"}
+- [Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1004-1){:target="blank"} på timeplan.uit.no
 - [Forelesningsplan](forelesningsplan.md){:target="blank"}
 - [Seminarplan](seminarplan.md){:target="blank"}  
-Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema. 
 
+Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema. 
 
 
 ## Kunngjøringer  
 
 Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/courses/24034){:target="blank"}.
-
-
-
-
 
 
 ## Innlevering og eksamen  
