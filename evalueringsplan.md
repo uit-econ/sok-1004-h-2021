@@ -1,6 +1,6 @@
-## Forelesningsplan
+## Evalueringsplan
 
-| Dato og tid <img width=80/>   | Tema                                                              | Lærer  | Ressurser <img width=200/>  |
+| Type oppgave <img width=80/>   |  Innleveringsfrist                                                             | Lærer  | Ressurser <img width=200/>  |
 |----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
 |19/08 08.15-10    | Innledning og kursplan                        | DC/ØM       |    |
 |26/08 14.15-16   | RStudio  | ØM |    |
