@@ -16,15 +16,28 @@ Kurset tas normalt i første høstsemester, og teller 15 studiepoeng.
 
 ## Pensum  
 
-[Core online text](https://www.core-econ.org/the-economy/book/text/0-3-contents.html){:target="blank"}
+[Core online text](https://www.core-econ.org/the-economy/book/text/0-3-contents.html){:target="blank"}  
+
+## Forkunnskaper  
+Dette kurset er ex. fac. for bachelorstudiet i Samfunnsøkonomi med datavitenskap.  
+Ex. fac består av to deler: (i) kurs i informasjonskompetanse (iKomp), (ii) vitenskapsteori.  
+Begge finnes som opptak, og blir ikke gjennomgått i klasserommet. Hver del må bestås med godkjent arbeidskrav.   
+For frister se [evalueringsplanen](evalueringsplan.md){:target="blank"}.
+
+- [iKomp](https://result.uit.no/ikomp/){:target="blank"}
+  - Online kurs. Arbeidskravet tas digitalt på slutten av kurset. Kursbevis leveres i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}.
+- Vitenskapsteori
+  - Online kurs. For oppgaveteksten til arbeidskravet se [evalueringsplanen](evalueringsplan.md){:target="blank"}.
 
 ## Kursplan  
 
-- [Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1004-1){:target="blank"} på timeplan.uit.no
+Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
+
 - [Forelesningsplan](forelesningsplan.md){:target="blank"}
 - [Seminarplan](seminarplan.md){:target="blank"}  
 
-Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema. 
+
+[Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1004-1){:target="blank"} på timeplan.uit.no
 
 
 ## Kunngjøringer  
