@@ -1,8 +1,8 @@
 ## Forelesningsplan
 
-| Dato og tid <img width=80/>   | Tema                                                              | Lærer  | Ressurser <img width=200/>  |
+| Forelesning <img width=80/>   | Tema                                                              | Lærer  | Ressurser <img width=200/>  |
 |----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
-|19/08 08.15-10    | Innledning og kursplan                        | DC/ØM       |    |
+|1   | Innledning og kursplan                        | DC/ØM       |    |
 |26/08 14.15-16   | RStudio  | ØM |    |
 |31/08 10.15-12   | Programmering         | ØM        |  |
 |02/09 14.15-16    | R | ØM |  |
