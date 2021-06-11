@@ -8,16 +8,16 @@
 |02/09 14.15-16    | R | ØM |  |
 |07/09 10.15-12    | Bruttonasjonalprodukt (BNP)    | DC       | [Core Kap. 1](https://www.core-econ.org/the-economy/book/text/01.html){:target='_blank_'}  |
 |08/09 08.15-10     | Markedsøkonomien  | DC | [Core Kap. 1](https://www.core-econ.org/the-economy/book/text/01.html){:target='_blank_'}   |
-|16/09 14.15-16   | Case 1a: Bruttonasjonalprodukt - BNP | ØM       | [lenker til case og kode](https://oysteinm.github.io/uit-sok-1004-h21/){:target='_blank_'} |
-|23/09 14.15-16   | Case 1b: Årlig bruttonasjonalprodukt 1865-2011  | ØM  |  [lenker til case og kode](https://oysteinm.github.io/uit-sok-1004-h21/){:target='_blank_'} |
+|16/09 14.15-16   | Case 1a: Bruttonasjonalprodukt - BNP | ØM       | [lenker til case og R kode](https://oysteinm.github.io/uit-sok-1004-h21/){:target='_blank_'} |
+|23/09 14.15-16   | Case 1b: Årlig bruttonasjonalprodukt 1865-2011  | ØM  |  [lenker til case og R kode](https://oysteinm.github.io/uit-sok-1004-h21/){:target='_blank_'} |
 |29/09 08.15-10    | Grunnleggende begreper i samfunnsøkonomi           | DC |   |
 |06/10 08.15-10    | Økonomisk vekst og befolkningsvekst | DC |   |
-|12/10 10.15-12  | Case 3: Analyse av korrelasjonen mellom økonomisk aktivitet (BNP), CO2-utslipp og global temperatur  | ØM |   |
-|13/10 08.15-10   | Case 4: Deskriptiv analyse av global handel           | ØM |  |
+|12/10 10.15-12  | Case 3: Analyse av korrelasjonen mellom økonomisk aktivitet (BNP), CO2-utslipp og global temperatur  | ØM | [lenker til case og R kode](https://oysteinm.github.io/uit-sok-1004-h21/){:target='_blank_'}  |
+|13/10 08.15-10   | Case 4: Deskriptiv analyse av global handel           | ØM | [lenker til case og R kode](https://oysteinm.github.io/uit-sok-1004-h21/){:target='_blank_'} |
 |26/10 10.15-12  | Produksjon  | DC |   | 
 |28.10 14.15-16  | Arbeidsinnsats  | DC         |   |
-|03/11 08.15-10    | Case 5: Deskriptiv analyse av prisdata fra SSB (KPI)   | ØM |  | 
-|09/11 10.15-12   | Case 6: Analyse av den historiske reallønnsveksten i Norge                 | ØM       |   |
+|03/11 08.15-10    | Case 5: Deskriptiv analyse av prisdata fra SSB (KPI)   | ØM | [lenker til case og R kode](https://oysteinm.github.io/uit-sok-1004-h21/){:target='_blank_'} | 
+|09/11 10.15-12   | Case 6: Analyse av den historiske reallønnsveksten i Norge                 | ØM       |  [lenker til case og R kode](https://oysteinm.github.io/uit-sok-1004-h21/){:target='_blank_'} |
 |11/11 14.15-16  | Individet og samfunnet        | DC         |    |
 |23/11 10.15-12  |   TBA                                      | DC         |   |
 
