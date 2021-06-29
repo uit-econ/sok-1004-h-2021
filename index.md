@@ -3,6 +3,16 @@
 <!--Gjør endringer under her-->
 
 
+## Kursplan  
+
+Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
+
+- [Forelesningsplan](forelesningsplan.md){:target="blank"}
+- [Seminarplan](seminarplan.md){:target="blank"}  
+
+
+[Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1004-1){:target="blank"} på timeplan.uit.no
+
 
 ## Kursbeskrivelse 
 
@@ -28,17 +38,6 @@ For frister se [evalueringsplanen](evalueringsplan.md){:target="blank"}.
   - Online kurs. Arbeidskravet tas digitalt på slutten av kurset. Kursbevis leveres i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}.
 - Vitenskapsteori
   - Online kurs. For oppgaveteksten til arbeidskravet se [evalueringsplanen](evalueringsplan.md){:target="blank"}.
-
-## Kursplan  
-
-Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
-
-- [Forelesningsplan](forelesningsplan.md){:target="blank"}
-- [Seminarplan](seminarplan.md){:target="blank"}  
-
-
-[Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1004-1){:target="blank"} på timeplan.uit.no
-
 
 ## Kunngjøringer  
 
